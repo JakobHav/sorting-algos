@@ -1,3 +1,14 @@
+"""
+  copyright 2025, Universität Freiburg
+
+  author: Jakob Haverkamp <jh1444@email.uni-freiburg.de>
+
+  date: 09.06.2025
+
+  description:
+
+"""
+
 import pygame
 import sys
 import random
